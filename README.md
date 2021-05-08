@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hanyhamdani
+- 👋 I’m @hanyhamdani
 - 👀 A data science enthusiast, with rich experience in Marketing
 - 🌱 Looking to powerup my skills in the field
 - 💞️ Python, Machine Learning, Analytics
-- 📫 Reach me @
+- 📫 Reach me 
 
 <hany.hamdani@gmail.com>  
 
