@@ -4,7 +4,7 @@
 - 💞️ Python, Machine Learning, Analytics
 - 📫 Reach me @
 
-[email] <hany.hamdani@gmail.com>  
+<hany.hamdani@gmail.com>  
 
 [LinkedIn](www.linkedin.com/in/shassanr)
 
