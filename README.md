@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<hany.hamdani@gmail.com>
+Email : <hany.hamdani@gmail.com>
+LinkedIn: [LinkedIn](www.linkedin.com/in/shassanr)
 
 <!---
 hanyhamdani/hanyhamdani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
