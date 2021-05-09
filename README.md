@@ -1,12 +1,20 @@
-- 👋 I’m @hanyhamdani
-- 👀 A data science enthusiast, with rich experience in Marketing
-- 🌱 Looking to powerup my skills in the field
-- 💞️ Python, Machine Learning, Analytics
-- 📫 Reach me 
+### Hi there 👋, I am Hassan!
+#### Data Scientist | Retail & Marketing Analytics 
+![Data Scientist | Retail & Marketing Analytics ](https://ibb.co/3Wgdch5)
 
-<hany.hamdani@gmail.com>  
+Experienced retail and marketing professional
 
-[LinkedIn](www.linkedin.com/in/shassanr)
+Expertise in Data Science, Machine Learning and its application in retail and marketing industry
+
+
+Skills: PYTHON | SQL | R | EXCEL | AZURE | GCP | POWER BI | TABLEAU
+
+- 🔭  More projects will be uploaded soon.
+
+
+
+
+
 
 
 <!---
