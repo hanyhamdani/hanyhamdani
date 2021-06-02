@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Hassan!
 #### Data Scientist | Retail & Marketing Analytics 
-![Data Scientist | Retail & Marketing Analytics ](https://ibb.co/3Wgdch5)
+![Data Scientist | Retail & Marketing Analytics ](https://github.com/hanyhamdani/hanyhamdani/main/portfolio-3.jpg?raw=true))
 
 Experienced retail and marketing professional
 
