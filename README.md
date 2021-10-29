@@ -7,7 +7,7 @@ Experienced retail and marketing professional
 Expertise in Data Science, Machine Learning and its application in retail and marketing industry
 
 
-Skills: PYTHON | SQL | R | EXCEL | AZURE | GCP | POWER BI | TABLEAU
+Skills: PYTHON | SQL | R | EXCEL | AZURE | GCP | TABLEAU
 
 - 🔭  More projects will be uploaded soon.
 
