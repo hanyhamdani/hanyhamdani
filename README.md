@@ -1,8 +1,9 @@
-### Hi there 👋, 
+Hi there 👋, 
+
 I am 
 ## Hassan!
 
-#### Data Scientist | Retail & Marketing Analytics 
+### Data Scientist | Retail & Marketing Analytics 
 ![Data Scientist | Retail & Marketing Analytics ](https://github.com/hanyhamdani/hanyhamdani/blob/main/portfolio-3.jpg)
 
 Master of Business Analytics Student
@@ -12,10 +13,10 @@ Dallas, Texas
 Looking for full time opportunities in Data Science / Machine Learning
 
 
-#### Skills:
+### Skills:
 PYTHON | SQL | R | EXCEL | AZURE | GCP | TABLEAU | KNIME | ALTERYX
 
-#### Data Science Expertise: 
+### Data Science Expertise: 
 
 Regression, Classification, Predictive Analytics, Statistical Analysis, Recommendation Systems, Data Mining,
 Aritficial Neural Networks, Text Mining, Natural Language Processing, Supervised Learning, Unsupervised Learning
@@ -25,7 +26,7 @@ Aritficial Neural Networks, Text Mining, Natural Language Processing, Supervised
 
 
 
-#### Reach out to me for any technical questions about my or related work and for Full time Opportunities at:
+### Reach out to me for any technical questions about my or related work and for Full time Opportunities at:
 #### email : hany.hamdani@gmail.com
 #### Phone : +1 469 733 8545
 
