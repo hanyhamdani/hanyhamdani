@@ -7,10 +7,14 @@ I am
 ![Data Scientist | Retail & Marketing Analytics ](https://github.com/hanyhamdani/hanyhamdani/blob/main/portfolio-3.jpg)
 
 Master of Business Analytics Student
+
 Southern Methodist University, Cox School of Business
+
 Dallas, Texas
 
-Looking for full time opportunities in Data Science / Machine Learning
+
+### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Looking for full time opportunities in Data Science / Machine Learning`
+
 
 
 ### Skills:
@@ -20,6 +24,7 @@ PYTHON | SQL | R | EXCEL | AZURE | GCP | TABLEAU | KNIME | ALTERYX
 
 Regression, Classification, Predictive Analytics, Statistical Analysis, Recommendation Systems, Data Mining,
 Aritficial Neural Networks, Text Mining, Natural Language Processing, Supervised Learning, Unsupervised Learning
+
 
 
 - 🔭  More projects will be uploaded soon.
