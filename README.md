@@ -1,4 +1,7 @@
-### Hi there 👋, I am Hassan!
+### Hi there 👋, 
+I am 
+## Hassan!
+
 #### Data Scientist | Retail & Marketing Analytics 
 ![Data Scientist | Retail & Marketing Analytics ](https://github.com/hanyhamdani/hanyhamdani/blob/main/portfolio-3.jpg)
 
@@ -26,7 +29,6 @@ Aritficial Neural Networks, Text Mining, Natural Language Processing, Supervised
 #### email : hany.hamdani@gmail.com
 #### Phone : +1 469 733 8545
 
-<font color="red">This is some text!</font>
 
 
 <!---
