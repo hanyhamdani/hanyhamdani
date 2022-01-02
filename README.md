@@ -2,19 +2,31 @@
 #### Data Scientist | Retail & Marketing Analytics 
 ![Data Scientist | Retail & Marketing Analytics ](https://github.com/hanyhamdani/hanyhamdani/blob/main/portfolio-3.jpg)
 
-Experienced retail and marketing professional
+Master of Business Analytics Student
+Southern Methodist University, Cox School of Business
+Dallas, Texas
 
-Expertise in Data Science, Machine Learning and its application in retail and marketing industry
+Looking for full time opportunities in Data Science / Machine Learning
 
 
-Skills: PYTHON | SQL | R | EXCEL | AZURE | GCP | TABLEAU
+#### Skills:
+PYTHON | SQL | R | EXCEL | AZURE | GCP | TABLEAU | KNIME | ALTERYX
+
+#### Data Science Expertise: 
+
+Regression, Classification, Predictive Analytics, Statistical Analysis, Recommendation Systems, Data Mining,
+Aritficial Neural Networks, Text Mining, Natural Language Processing, Supervised Learning, Unsupervised Learning
+
 
 - 🔭  More projects will be uploaded soon.
 
 
 
+#### Reach out to me for any technical questions about my or related work and for Full time Opportunities at:
+#### email : hany.hamdani@gmail.com
+#### Phone : +1 469 733 8545
 
-
+<font color="red">This is some text!</font>
 
 
 <!---
