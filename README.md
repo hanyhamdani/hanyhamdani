@@ -6,11 +6,9 @@ I am
 ### Data Scientist | Retail & Marketing Analytics 
 ![Data Scientist | Retail & Marketing Analytics ](https://github.com/hanyhamdani/hanyhamdani/blob/main/portfolio-3.jpg)
 
-Master of Business Analytics Student
 
-Southern Methodist University, Cox School of Business
 
-Dallas, Texas
+Living in Dallas, Texas
 
 
 ### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Looking for full time opportunities in Data Science / Machine Learning`
